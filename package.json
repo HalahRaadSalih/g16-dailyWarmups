@@ -1,0 +1,22 @@
+{
+  "name": "qw",
+  "version": "1.0.0",
+  "description": "Solutions to daily warmups provided by Galvanize Instructors",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HalahRaadSalih/g16-dailyWarmups.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HalahRaadSalih/g16-dailyWarmups/issues"
+  },
+  "homepage": "https://github.com/HalahRaadSalih/g16-dailyWarmups#readme",
+  "dependencies": {
+    "bcrypt": "^0.8.5"
+  }
+}
